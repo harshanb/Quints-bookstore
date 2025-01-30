@@ -1,0 +1,7 @@
+CREATE TABLE BOOK_LIST (
+    id BIGINT AUTO_INCREMENT PRIMARY KEY,
+    title VARCHAR(255),
+    author VARCHAR(255),
+    category VARCHAR(255),
+    price DOUBLE
+);
