@@ -8,4 +8,4 @@ This is the Quints online bookstore service backend source creating a possibilit
 
  ## Clone this repository:
 - To build the project and run the tests 
-    mvn clean install
+    *mvn clean install*
